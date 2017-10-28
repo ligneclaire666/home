@@ -339,7 +339,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-3-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -370,6 +370,23 @@
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><b><br></b><br><br><br><br><br>Découvrez tous nos produits OVERWATCH !!!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=overwatch&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Cliquez-ici</a>  "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ac-news-quests-overview-ncsa-293408-1920x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<br><br><br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br>Découvrez tous nos produits \"Assassin's Creed\" !!!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=assassin%27s+creed&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Cliquez-ici</a> "
               }
             ]
           },
