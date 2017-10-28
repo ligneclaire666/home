@@ -336,7 +336,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-1-1280x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-2-1280x720.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
