@@ -347,7 +347,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-3-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -381,7 +381,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ac-news-quests-overview-ncsa-293408-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -394,7 +394,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<p><span style=\"font-size: 1rem; background-color: transparent;\">Découvrez tous</span><br></p><p>nos produ<span style=\"font-size: 1rem; background-color: transparent;\">its</span></p><p><span style=\"font-size: 1rem; background-color: transparent;\">\"Assassin's Creed\" !!!</span></p><br><br><br><p><span style=\"font-size: 1rem; background-color: transparent;\"><br></span></p>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=assassin%27s+creed&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Cliquez-ici</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=assassin%27s+creed&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>RCliquez-ici</a> "
               }
             ]
           }
