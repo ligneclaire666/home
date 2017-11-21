@@ -346,7 +346,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/169eme-cadeau-1-2000x1124.jpg",
+                "image": "@PROJECT_PATH@/assets/images/43-cadeau-2000x1500.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -359,7 +359,7 @@
                 "title": "<br><br><br><br>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br>",
+                "text": "<br><br><br><b><br></b><br><br><br><br><b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=assassin%27s+creed&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
               },
               {
