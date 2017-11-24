@@ -364,7 +364,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-3-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -395,6 +395,23 @@
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=bloodborne&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/strangerthingsthumbjpg-6ab191-1280w-3-1280x720.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=xwD6Z7GzGxI",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "<br><br><br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "<br><br><br><b><br></b><br><br><br><br><b><br></b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-avancee.html?search_titre=stranger+things&amp;search_auteur=&amp;search_editeur=&amp;search_collection=&amp;search_eans=&amp;search_type=0&amp;tpeProd=&amp;sort=P\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !</a> "
               }
             ]
           }
