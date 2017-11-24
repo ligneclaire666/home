@@ -343,7 +343,7 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": "4000",
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/necromunda3-retail-cover-1-1500x564.jpg",
@@ -359,7 +359,7 @@
                 "title": "<br><br><br><br>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br>",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=necromunda&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
               }
             ]
