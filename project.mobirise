@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 21,
-    "versionPublish": "4.4.0",
+    "versionPublish": "4.5.1",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -329,7 +329,7 @@
             }
           },
           "_name": "slider2",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"100\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"400\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"hidden\" name=\"typeSlider\" value=\"headerSlider\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Width\" name=\"sliderWSize\" min=\"50\" max=\"100\" step=\"1\" value=\"70\" inline>\n        <input type=\"range\" title=\"Height\" name=\"sliderHSize\" min=\"300\" max=\"700\" step=\"10\" value=\"300\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container content-slider\">\n        <div class=\"content-slider-wrap\">\n            <div mbr-carousel=\"slides\"></div> \n        </div>\n    </div>\n</section>",
           "_cid": "qzm5KZQtrH",
           "_anchor": "slider2-h",
           "_protectedParams": [
@@ -346,24 +346,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/necromunda3-retail-cover-1-1500x564.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=xwD6Z7GzGxI",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "<br><br><br><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=necromunda&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/necromunda3-retail-cover-1-1500x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8896981518182-350x350.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -374,7 +357,7 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "<br><br><br><br>",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=necromunda&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
@@ -693,40 +676,6 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/43-cadeau-2000x1500.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "<br><br><br><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "<br><br><br><b><br></b><br><br><br><br><b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-avancee.html?search_titre=integrale+coffret&amp;search_auteur=&amp;search_editeur=&amp;search_collection=&amp;search_eans=&amp;search_type=0&amp;tpeProd=&amp;sort=P\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez notre sélection !</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/necromunda3-retail-cover-1-1500x564.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "<br><br><br><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-rapide.html?search_keys=necromunda&amp;search_type=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez nos produits !<br></a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/focus-sur-nos-plus-belles-pices-1058x794.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -740,7 +689,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><b><br></b><br><br><br><br><b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/produits/fiche/tintin-resine--tintin-4402100000007-v.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Plus d'infos !</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-avancee.html?search_titre=integrale+coffret&amp;search_auteur=&amp;search_editeur=&amp;search_collection=&amp;search_eans=&amp;search_type=0&amp;tpeProd=&amp;sort=P\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez notre sélection !</a> "
               }
             ]
           }
