@@ -692,7 +692,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"http://www.ligne-claire.be/recherche/resultats-recherche-avancee.html?search_titre=integrale+coffret&amp;search_auteur=&amp;search_editeur=&amp;search_collection=&amp;search_eans=&amp;search_type=0&amp;tpeProd=&amp;sort=P\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Découvrez notre sélection !</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/8896982207436-1200x807.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8896982207436-800x538.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
